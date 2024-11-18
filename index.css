@@ -1,0 +1,666 @@
+.image-26-icon1 {
+  height: 130px;
+  width: 122px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.taking-islam-to1 {
+  margin: 0;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-quicksand);
+}
+.touwsriver-islamic-society-container4 {
+  width: 100%;
+}
+.touwsriver-islamic-society-container3 {
+  width: 358.5px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  height: 36px;
+  flex-shrink: 0;
+}
+.touwsriver-islamic-society-tak-container {
+  height: 82px;
+  width: 358.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-27xl) 0px 0px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.image-26-group {
+  margin-top: -13px;
+  margin-left: -37px;
+  height: 130px;
+  width: 489.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs-2);
+  flex-shrink: 0;
+}
+.logo-pg-11 {
+  height: 103px;
+  width: 380px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 2;
+}
+.bismillah-pg1-icon1 {
+  width: 400px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.navhome11 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 150%;
+  -webkit-text-stroke: 1px #000;
+}
+.navcontactus11 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 150%;
+  display: inline-block;
+  -webkit-text-stroke: 1px #000;
+  min-width: 114px;
+}
+.navhome1-parent {
+  margin: 0;
+  width: 489px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-quicksand);
+}
+.bismillah-pg1-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+  max-width: 100%;
+}
+.frame-wrapper3 {
+  width: 730px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px var(--padding-16xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.donate2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 150%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  -webkit-text-stroke: 1px #fff;
+  min-width: 99px;
+}
+.navsadaqah11 {
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini-5) var(--padding-2xl) var(--padding-mini-5)
+    var(--padding-3xl);
+}
+.navsadaqah1-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px var(--padding-base);
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.logo-pg-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 46px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-lalezar);
+}
+.frame-item {
+  width: 1015.2px;
+  position: relative;
+  max-height: 100%;
+  object-fit: contain;
+  mix-blend-mode: normal;
+  margin-top: -5px;
+  max-width: 100%;
+}
+.vector-container {
+  width: 1247.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12.1px;
+  max-width: 100%;
+}
+.our-goal-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.our-goal-heading {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.our-goal-heading-wrapper {
+  width: 784px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-60xl) 0px var(--padding-61xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.about-us-an {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.08em;
+  line-height: 150%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+  max-width: 100%;
+}
+.about-us-an-what-we-do-sub-wrapper {
+  width: 784px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-60xl) 11px var(--padding-61xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-8xl);
+  color: #030303;
+}
+.at-our-core {
+  margin: 0;
+}
+.our-goal-paragraph-container {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 150%;
+  display: inline-block;
+  max-width: 100%;
+}
+.our-goal-paragraph-wrapper {
+  width: 784px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-61xl) var(--padding-16xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-quicksand);
+}
+.hupstoot-thrift-store1 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 150%;
+  font-weight: 500;
+}
+.sponsor-a-child1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-decoration: underline;
+  line-height: 150%;
+  font-weight: 500;
+}
+.footer-links-left {
+  position: absolute;
+  top: 65px;
+  left: 517px;
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  color: var(--color-darkslategray);
+  font-family: var(--font-quicksand);
+}
+.help-us-do1 {
+  width: 344px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 150%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.help-us-do-what-we-do-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.feeding-schemes1 {
+  align-self: stretch;
+  position: relative;
+  text-decoration: underline;
+  line-height: 150%;
+  font-weight: 500;
+}
+.fundraisers1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  line-height: 150%;
+}
+.feeding-schemes-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper5 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px var(--padding-12xs);
+  box-sizing: border-box;
+  min-width: 122px;
+}
+.donate-items1 {
+  align-self: stretch;
+  position: relative;
+  text-decoration: underline;
+  line-height: 150%;
+  font-weight: 500;
+}
+.community1 {
+  width: 183px;
+  position: relative;
+  font-size: var(--font-size-2xl);
+  text-decoration: underline;
+  line-height: 150%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.donate-items-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+  min-width: 122px;
+  font-size: var(--font-size-xl);
+}
+.frame-parent4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0px var(--padding-3xl) 0px 0px;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+  font-family: var(--font-quicksand);
+}
+.frame-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.footer-links-right-inner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px var(--padding-10xl);
+  box-sizing: border-box;
+  min-width: 270px;
+  max-width: 100%;
+}
+.touwsriver-masjid-info-group {
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  margin-left: -27px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-quicksand);
+}
+.footer-links-right {
+  position: absolute;
+  top: 10px;
+  left: 752px;
+  width: 576px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+  row-gap: 20px;
+  font-size: var(--font-size-2xl);
+}
+.frame-inner {
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+.touwsriver-islamic-society-container5 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  text-decoration: underline;
+  line-height: 150%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.touwsriver-islamic-society-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent5 {
+  position: absolute;
+  top: 57px;
+  left: 126px;
+  width: 405px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  max-width: 100%;
+  font-size: var(--font-size-9xl);
+}
+.navigation-footer3 {
+  height: 264px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-floralwhite-200);
+  overflow: hidden;
+  max-width: 100%;
+}
+.boder-btm-pg-2 {
+  position: absolute;
+  top: 450px;
+  left: 394px;
+  width: 485px;
+  height: 447px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+  z-index: 1;
+}
+.border-top-pg2 {
+  position: absolute;
+  top: 0px;
+  left: 394px;
+  width: 485px;
+  height: 447px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.feeding-pic-icon {
+  position: absolute;
+  top: 86px;
+  left: 0px;
+  width: 525px;
+  height: 700px;
+  object-fit: cover;
+  z-index: 2;
+}
+.boder-btm-pg-2-parent {
+  height: 897px;
+  width: 637px;
+  position: absolute;
+  margin: 0 !important;
+  top: -811px;
+  right: 0px;
+}
+.navigation-footer2 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-main {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 51px 0px 0px;
+  box-sizing: border-box;
+  gap: 11px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 64px;
+  color: var(--color-black);
+  font-family: var(--font-lalezar);
+}
+.our-goal {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-floralwhite-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 3px 0px var(--padding-mid);
+  box-sizing: border-box;
+  gap: 11.7px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+@media screen and (max-width: 1300px) {
+  .logo-pg-1-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-main {
+    padding-top: 33px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .navhome1-parent {
+    display: none;
+  }
+
+  .logo-pg-1-parent {
+    gap: var(--gap-4xl);
+  }
+
+  .our-goal-heading {
+    font-size: 51px;
+  }
+
+  .our-goal-heading-wrapper {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+
+  .about-us-an-what-we-do-sub-wrapper {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+
+  .our-goal-paragraph-wrapper {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+
+  .frame-main {
+    padding-top: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .donate2 {
+    font-size: var(--font-size-3xl);
+    line-height: 34px;
+  }
+
+  .our-goal-heading {
+    font-size: 38px;
+  }
+
+  .about-us-an {
+    font-size: var(--font-size-3xl);
+    line-height: 32px;
+  }
+
+  .our-goal-paragraph-container {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+
+  .hupstoot-thrift-store1 {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+
+  .help-us-do1 {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+
+  .fundraisers1 {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+
+  .donate-items1 {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+
+  .community1 {
+    font-size: var(--font-size-mid);
+    line-height: 25px;
+  }
+
+  .frame-parent4 {
+    flex-wrap: wrap;
+  }
+
+  .touwsriver-masjid-info-group {
+    flex: 1;
+    margin-left: 0;
+  }
+
+  .footer-links-right {
+    flex-wrap: wrap;
+  }
+
+  .touwsriver-islamic-society-container5 {
+    font-size: var(--font-size-3xl);
+    line-height: 34px;
+  }
+
+  .navigation-footer3 {
+    height: auto;
+    min-height: 264;
+  }
+}
